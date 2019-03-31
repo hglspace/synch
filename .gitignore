@@ -1,0 +1,16 @@
+.idea/
+target/
+.project
+hs_err*.log
+.settings/
+record_msg/
+*.iml
+/.classpath
+src/test
+.DS_Store
+.gradle/
+gradle/
+out/
+build/
+.idea/vcs.xml
+settings.gradle

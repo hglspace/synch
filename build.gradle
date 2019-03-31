@@ -1,0 +1,17 @@
+plugins {
+    id 'java'
+}
+
+group 'com.hgldp.nt'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+}
+
+dependencies {
+    compile group: 'io.netty', name: 'netty-all', version: '4.0.42.Final'
+}
